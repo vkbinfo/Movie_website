@@ -2,8 +2,8 @@ import media
 import fresh_tomatoes
 
 beautiful_mind=media.Movie("A Beautiful Mind",
-                      "John Nash, a brilliant but asocial mathematical genius,"+
-                      " finds himself in pain when he encounters"+
+                      "John Nash, a brilliant but asocial mathematical genius,"
+                      " finds himself in pain when he encounters"
                       "da cruel disorder. He ultimately overcomes his struggles and emerges free of any trauma.",
                       "http://www.geeksundergrace.com/wp-content/uploads/2015/11/toystory4.jpg",
                       "https://www.youtube.com/watch?v=JcpWXaA2qeg")
